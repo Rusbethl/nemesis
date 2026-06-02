@@ -1,0 +1,27 @@
+{
+    "timestamp": "2026-01-31 13:13:01.092719",
+    "progreso_ia": 100.18301999999998,
+    "total_eventos_calidad": 10018302,
+    "detalles": {
+        "RAW (Entrada)": {
+            "archivos": 669,
+            "eventos": 666438
+        },
+        "PROCESSED (Limpio)": {
+            "archivos": 0,
+            "eventos": 0
+        },
+        "LABELED (Por Entrenar)": {
+            "archivos": 0,
+            "eventos": 0
+        },
+        "TRAINED (IA Completada)": {
+            "archivos": 23925,
+            "eventos": 10018302
+        },
+        "HISTORICO (Respaldo)": {
+            "archivos": 11051,
+            "eventos": 0
+        }
+    }
+}
