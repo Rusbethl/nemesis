@@ -1,0 +1,8 @@
+pandas
+websockets
+polars
+pyarrow
+numpy
+torch
+dash
+python-binance
